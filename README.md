@@ -1,13 +1,18 @@
-## Hi :wave: I'm Apoorva CG
- 
+<div id="header" align="center">
+ <img src="https://user-images.githubusercontent.com/38747166/200209718-1c9afc1c-0f5c-4b18-badd-731ba1437c1b.gif" width="200"/>
+</div>
+
+<h2 align="center"><samp>Hi there! I'm Apoorva CG</samp></h2>
+
 ### :woman_technologist: About Me :
  
- I am a **Front-end Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bengaluru, India.
+ <samp>I am a **Front-end Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bengaluru, India.</samp>
  
- - :earth_asia: Checkout my site <a href='https://apoorvacg.vercel.app/'>here</a>
- - :writing_hand: Read my technical articles at <a href='https://dev.to/apoorvacg'>dev.to</a>
- - :email: You can contact me at cgapoorvadev@gmail.com
- - :eyes: Currently focusing on application performance and trying my hands on open source 
+
+   - <samp>:earth_asia: Checkout my site <a href='https://apoorvacg.vercel.app/'>here</a>
+   - <samp>:writing_hand: Read my technical articles at <a href='https://dev.to/apoorvacg'>dev.to</a></samp>
+   - <samp>:email: You can contact me at cgapoorvadev@gmail.com</samp>
+   - <samp>:eyes: Currently focusing on application performance and trying my hands on open source</samp>
 
 ---
 
