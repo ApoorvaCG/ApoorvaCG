@@ -6,7 +6,7 @@
 
 ### :woman_technologist: About Me :
  
- <samp>I am a **Front-end Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bengaluru, India.</samp>
+ <samp>I am a **Front-end Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bengaluru, India. Currently living in Munich, Germany.</samp>
  
 
    - <samp>:earth_asia: Checkout my site <a href='https://apoorvacg.vercel.app/'>here</a>
